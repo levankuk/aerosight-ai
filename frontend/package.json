@@ -1,0 +1,26 @@
+{
+  "name": "aerosight-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "canary", 
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "lucide-react": "latest",
+    "@tremor/react": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
